@@ -1,0 +1,13 @@
+&INPUT file1='adf04_450' file2='adf04ic_450' a1=61 a2=1656 b1=753 b2=268958  &END
+
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!  file1     = filename of first file
+!  file2     = file name of second file
+!  a1        = begin row index of file1
+!  a2        = end row index of file1
+!  b1        = begin row index of file2
+!  b2        = end row index of file2
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!

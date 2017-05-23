@@ -19,8 +19,8 @@ DXL = 1
 DXU = 15
 IMETA = 1
 
-DXL = int(input('Lower level = ? '))
-DXU = int(input('Upper level = ? '))
+DXL = int(input('Lower level index # = ? '))
+DXU = int(input('Upper level index # = ? '))
 
 # %%
 # Get the index values needed for the branching ratio code.
